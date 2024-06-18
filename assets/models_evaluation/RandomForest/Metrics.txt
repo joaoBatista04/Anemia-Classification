@@ -1,0 +1,3 @@
+Accuracy: 97.84%, Precision: 97.83%, F1-Score: 97.74%, Recall: 97.84%
+Accuracy with cross validation with cross_val_score: 0.8990185102254067%
+Accuracy with cross validation with Stratified KFold: (0.9835607196401799, 0.9849636252135371, 0.9835607196401799, 0.9818832801155393)%

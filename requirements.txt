@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib.pyplot
+tabulate
+scikit-learn
+xgboost
+lazypredict
+imbalanced-learn
+yellowbrick
+itertools

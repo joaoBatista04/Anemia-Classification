@@ -1,0 +1,8 @@
+Results GridSearchCV:
+Pipeline(steps=[('scaler', StandardScaler()),
+                ('model',
+                 KNeighborsClassifier(metric='manhattan', n_neighbors=7,
+                                      weights='distance'))])
+
+Pipeline(steps=[('scaler', StandardScaler()), ('model', GaussianNB())])
+
