@@ -143,9 +143,22 @@ O vídeo de resumo do projeto pode ser encontrado [aqui](https://drive.google.co
 Este projeto valoriza a contribuição da comunidade e ficaremos muito felizes com sugestões! Para contribuir, siga as diretrizes abaixo:
 
 1. Fork o Repositório;
-2. Crie uma Branch (````sh git checkout -b minha-contribuicao````);
-3. Faça um Commit das suas Features (````sh git commit -m "Comment your feature"````);
-4. Faça o Push para a Branch (````sh git push origin minha-contribuicao````);
+
+2. Crie uma Branch:
+
+```sh 
+git checkout -b minha-contribuicao
+```
+3. Faça um Commit das suas Features:
+
+```sh 
+git commit -m "Comment your feature"
+```
+4. Faça o Push para a Branch:
+
+```sh 
+git push origin minha-contribuicao
+```
 5. Abra um Pull Request.
 
 ## 🛐 Agradecimentos
