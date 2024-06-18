@@ -27,6 +27,7 @@ Este repositório contém códigos para a análise de parâmetros de hemogramas 
 - [Uso](#uso)
 - [Tecnologias](#tecnologias)
 - [Resultados](#resultados)
+- [Contribuição](#contribuicao)
 - [Agradecimento](#agradecimentos)
 
 ## ☁️ Instalação
