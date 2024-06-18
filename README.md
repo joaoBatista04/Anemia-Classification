@@ -139,5 +139,14 @@ O artigo completo com os resultados do projeto pode ser encontrado [aqui](https:
 
 O vídeo de resumo do projeto pode ser encontrado [aqui](https://drive.google.com/file/d/113MYghvv2VaicqA3deQw1mliEeFhBSUE/view?usp=sharing)
 
+## 🤝 Contribuição
+Este projeto valoriza a contribuição da comunidade e ficaremos muito felizes com sugestões! Para contribuir, siga as diretrizes abaixo:
+
+1. Fork o Repositório;
+2. Crie uma Branch (````sh git checkout -b minha-contribuicao````);
+3. Faça um Commit das suas Features (````sh git commit -m "Comment your feature"````);
+4. Faça o Push para a Branch (````sh git push origin minha-contribuicao````);
+5. Abra um Pull Request.
+
 ## 🛐 Agradecimentos
 Um agradecimento especial ao professor [André Georghton Pacheco](https://github.com/paaatcha), que permitiu toda a realização do trabalho, dando motivação e assistência para o seu desenvolvimento.
